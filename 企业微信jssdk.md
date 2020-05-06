@@ -1,7 +1,7 @@
 ### 企业微信获取当前用户信息
 
-[构造网页授权链接](https://work.weixin.qq.com/api/doc/90000/90135/91022)
-[企业微信 获取当前用户信息](https://www.cnblogs.com/BinBinGo/p/11484802.html)
+1. [构造网页授权链接](https://work.weixin.qq.com/api/doc/90000/90135/91022)
+2. [企业微信 获取当前用户信息](https://www.cnblogs.com/BinBinGo/p/11484802.html)
 
 ### 问题
 
